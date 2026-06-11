@@ -1,0 +1,7 @@
+# Pedals (set these same keys in PDCC)
+F13 cycle pause              # start/stop
+F14 no-osd seek -2 exact     # rewind 2 seconds
+
+# Optional keyboard fallbacks
+ctrl+alt+home  cycle pause            # start/stop
+ctrl+alt+end   no-osd seek -2 exact   # rewind 2s
